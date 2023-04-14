@@ -1,0 +1,189 @@
+[
+    {
+        "detail_id":"1",
+        "detail_titulo":"Dungeons & Dragons: Honor entre ladrones",
+        "categoria":"favorita",
+        "detail_imagen": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "Aventura, Comedia, Fantasia",
+        "detail_duracion":"134 Minutos",
+        "director":"John Francis Daley",
+        "fecha_estreno":"Marzo 23, 2023",
+        "review":"Drama",
+        "resumen": "Un ladrón encantador y una banda de aventureros increíbles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen rematadamente mal cuando se topan con las personas equivocadas. Adaptación cinematográfica del primer juego de rol de la historia, publicado por primera vez en 1974.",
+        "actor1": {
+            "nombre":"Chris Pine",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    },
+    {
+        "detail_id":"2",
+        "detail_titulo":"Avatar 2: El camino del agua",
+        "categoria":"favorita",
+        "detail_imagen": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61O8usiIS7L.jpg",
+        "detail_background": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61O8usiIS7L.jpg",
+        "detail_genero": "Ciencia ficcion, Aventura, Accion, Fantasia",
+        "detail_duracion":"192 minutos",
+        "director":"James Cameron",
+        "fecha_estreno":"Diciembre 16, 2022",
+        "review":"Los primeros minutos de la gran épica ecológica de James Cameron dejan claro de inmediato que esta largamente esperada secuela es una experiencia. Antes que un recorrido, una historia o incluso una exploración a un nuevo mundo, Avatar 2: el sentido del agua es una osadía visual que hipnotiza a un grado abrumador. El nivel de realismo y detalle sobrepasa toda posible predicción sobre el trabajo de Cameron y convierte la película en puro poder narrativo. ",
+        "resumen": "Jake Sully vive con su recién formada familia en el planeta de Pandora. Cuando una amenaza familiar regresa para acabar con lo que se había empezado, Jake debe trabajar con Neytiri y el ejército de la raza Na'vi para proteger su planeta. Secuela de Avatar (2009).",
+        "actor1": {
+            "nombre":"Sam Worthington",
+            "imagen":"https://www.themoviedb.org/t/p/w500/blKKsHlJIL9PmUQZB8f3YmMBW5Y.jpg"
+        },
+        "actor2": {
+            "nombre":"Zoe Saldaña",
+            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+        },
+        "actor3": {
+            "nombre":"Zoe Saldaña",
+            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+        },
+        "actor4": {
+            "nombre":"Zoe Saldaña",
+            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+        },
+        "actor5": {
+            "nombre":"Zoe Saldaña",
+            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+        }
+    },
+    {
+        "detail_id":"3",
+        "detail_titulo":"Operacion Fortune: El gran engaño",
+        "categoria":"estreno",
+        "detail_imagen": "https://www.ecartelera.com/carteles/17500/17589/001_m.jpg",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "",
+        "detail_duracion":"The Whale",
+        "director":"Darren Aronofsky",
+        "fecha_estreno":"Diciembre 9, 2022",
+        "review":"Drama",
+        "resumen": "117 minutos",
+        "actor1": {
+            "nombre":"",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    },
+    {
+        "detail_id":"4",
+        "detail_titulo":"Babylon",
+        "categoria":"estreno",
+        "detail_imagen": "https://i.ebayimg.com/images/g/JM8AAOSwc6ZjiOJV/s-l1600.jpg",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "",
+        "detail_duracion":"The Whale",
+        "director":"Darren Aronofsky",
+        "fecha_estreno":"Diciembre 9, 2022",
+        "review":"Drama",
+        "resumen": "117 minutos",
+        "actor1": {
+            "nombre":"",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    },
+    {
+        "detail_id":"5",
+        "detail_titulo":"Ant-Man y la Avispa: Quantumania",
+        "categoria":"estreno",
+        "detail_imagen": "https://www.mubis.es/media/users/7286/311364/trailer-y-poster-oficial-de-ant-man-y-la-avispa-quantumania-original.jpg",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "",
+        "detail_duracion":"The Whale",
+        "director":"Darren Aronofsky",
+        "fecha_estreno":"Diciembre 9, 2022",
+        "review":"Drama",
+        "resumen": "117 minutos",
+        "actor1": {
+            "nombre":"",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    },
+    {
+        "detail_id":"6",
+        "detail_titulo":"Volver al futuro: Parte III",
+        "categoria":"favorita",
+        "detail_imagen": "https://cdn.cinencuentro.com/wp-content/uploads/2015/10/VOLVER3-poster-683x1024.jpg",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "",
+        "detail_duracion":"The Whale",
+        "director":"Darren Aronofsky",
+        "fecha_estreno":"Diciembre 9, 2022",
+        "review":"Drama",
+        "resumen": "117 minutos",
+        "actor1": {
+            "nombre":"",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    },
+    {
+        "detail_id":"7",
+        "detail_titulo":"The Creed III",
+        "categoria":"estreno",
+        "detail_imagen": "https://upload.wikimedia.org/wikipedia/en/c/c2/Creed_III_poster.png",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "",
+        "detail_duracion":"The Whale",
+        "director":"Darren Aronofsky",
+        "fecha_estreno":"Diciembre 9, 2022",
+        "review":"Drama",
+        "resumen": "117 minutos",
+        "actor1": {
+            "nombre":"",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    },
+    {
+        "detail_id":"8",
+        "detail_titulo":"John Wick 4",
+        "categoria":"estreno",
+        "detail_imagen": "https://image.tmdb.org/t/p/original//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        
+        "detail_genero": "",
+        "detail_duracion":"The Whale",
+        "director":"Darren Aronofsky",
+        "fecha_estreno":"Diciembre 9, 2022",
+        "review":"Drama",
+        "resumen": "117 minutos",
+        "actor1": {
+            "nombre":"",
+            "imagen":""
+        },
+        "actor2": {
+            "nombre":"",
+            "imagen":""
+        }
+    }
+]

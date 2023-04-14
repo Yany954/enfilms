@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "imagen": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "titulo":"Dungeons & Dragons: Honor entre ladrones",
+        "genero":"Drama",
+        "duracion": "134 minutos"
+    },
+    {
+        "id":2,
+        "imagen": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61O8usiIS7L.jpg",
+        "titulo":"Avatar 2: El camino del agua",
+        "genero":"Ciencia ficcion, Aventura, Accion, Fantasia",
+        "duracion": "192 minutos"
+    },
+    {
+        "id":3,
+        "imagen": "https://www.ecartelera.com/carteles/17500/17589/001_m.jpg",
+        "titulo":"Operacion Fortune: El gran engaño",
+        "genero":"Drama",
+        "duracion": "117 minutos"
+    },
+    {
+        "id":4,
+        "imagen": "https://i.ebayimg.com/images/g/JM8AAOSwc6ZjiOJV/s-l1600.jpg",
+        "titulo":"Babylon",
+        "genero":"Drama",
+        "duracion": "117 minutos"
+    },
+    {
+        "id":5,
+        "imagen": "https://www.mubis.es/media/users/7286/311364/trailer-y-poster-oficial-de-ant-man-y-la-avispa-quantumania-original.jpg",
+        "titulo":"Ant-Man y la Avispa: Quantumania",
+        "genero":"Drama",
+        "duracion": "117 minutos"
+    },
+    {
+        "id":6,
+        "imagen": "https://cdn.cinencuentro.com/wp-content/uploads/2015/10/VOLVER3-poster-683x1024.jpg",
+        "titulo":"Volver al futuro: Parte III",
+        "genero":"Drama",
+        "duracion": "117 minutos"
+    },
+    {
+        "id":7,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/c/c2/Creed_III_poster.png",
+        "titulo":"The Creed III",
+        "genero":"Drama",
+        "duracion": "117 minutos"
+    },
+    {
+        "id":8,
+        "imagen": "https://image.tmdb.org/t/p/original//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "titulo":"John Wick 4",
+        "genero":"Drama",
+        "duracion": "117 minutos"
+    }
+]

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENFILMS</title>
+    
+    <link rel="shortcut icon" href="iconoPestana.ico">
+    <link href="bootstrap-5.2.3-dist/css/bootstrap.min.css" rel="stylesheet">
+    
+        
+</head>
+<body>
+    <main>
+        
+            <div class="container mb-5">
+ 
+                <!-- Header -->
+                <header class="d-flex flex-wrap py-3 mb-5 border-bottom">
+        
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+                    <div class="container">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="assets\logoEnfilms.png" width="130" height="70">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>                    
+                        </li>
+        
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="popular_view.html">Favoritas</a>                    
+                        </li>
+        
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="upcoming.html">Estrenos</a>                    
+                        </li>     
+                        </ul>
+                        <form class="d-flex" role="search">
+                            <input class="form-control me-2" type="search" placeholder="Nombre de la pelicula" aria-label="Search">
+                            <button class="btn btn-info" type="submit">Buscar</button>
+                        </form>
+                    </div>
+                    </div>
+                </nav>
+        
+                </header>
+                
+            </div>
+
+            <!-- Contenido background, e info de cada peli-->
+            <div class="containerCard justify-content-center align-items-center">
+          
+                <div class="row row-cols-xs-1 row-cols-sm-3  row-cols-md-4 row-cols-lg-7 " id="upcoming-output">
+                
+                </div>
+  
+              
+            </div>
+        
+        
+     
+        
+    
+    </main>
+    <!-- Footer  ,hecho por Yany-->  
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container">
+          <span class="text-muted">Copyright ©<script>document.write(new Date().getFullYear())</script>, hecho por Yany</span>
+        </div>
+      </footer>
+
+    
+    <script src="bootstrap-5.2.3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="javascript/upcoming_view.js"></script>
+    
+</body>
+</html>
+
+<style>
+    .card{
+      margin-top: 2rem;
+      transition: all 0.3s;
+      border-style: hidden;
+    }
+    .card:hover{
+      transform: scale(1.15);
+      cursor: pointer;
+    }
+    .card-title{
+      font-size: medium;
+    }
+    .card-text{
+      font-size: small;
+    }
+    .card-img-top{
+      -webkit-text-size-adjust:auto;
+      height: 19rem;
+    }
+    .enlace{
+      text-decoration:none;
+      color: #000;
+    }
+    .enlace:hover{
+      color: #1a81a1;
+    }
+    .containerCard{
+      margin-inline: 1rem;
+  
+    }
+    
+  </style>

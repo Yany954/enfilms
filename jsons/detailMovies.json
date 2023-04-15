@@ -3,27 +3,39 @@
         "detail_id":"1",
         "detail_titulo":"Dungeons & Dragons: Honor entre ladrones",
         "categoria":"favorita",
-        "detail_imagen": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_imagen": "https://palomaynacho.com/wp-content/uploads/2022/12/dd.jpg",
+        "detail_background": "https://a-static.besthdwallpaper.com/dungeons-dragons-honor-among-thieves-movie-poster-wallpaper-3750x3000-112492_34.jpg",
         
         "detail_genero": "Aventura, Comedia, Fantasia",
         "detail_duracion":"134 Minutos",
         "director":"John Francis Daley",
         "fecha_estreno":"Marzo 23, 2023",
-        "review":"Drama",
+        "review":"Su trama es bastante genérica como aventura de fantasía, los efectos especiales son decentes en su mayoría y las escenas de combates no son especialmente memorables. Sin embargo, el carisma de sus protagonistas, las relaciones entre ellos y lo divertido que es verlos fracasar de escena a escena hace que definitivamente valga la pena ir al cine a ver esta película, sin importar si son jugadores de Dungeons & Dragons o no.",
         "resumen": "Un ladrón encantador y una banda de aventureros increíbles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen rematadamente mal cuando se topan con las personas equivocadas. Adaptación cinematográfica del primer juego de rol de la historia, publicado por primera vez en 1974.",
         "actor1": {
             "nombre":"Chris Pine",
-            "imagen":""
+            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chris_Pine_%2843043463084%29_%28cropped%29.jpg/1200px-Chris_Pine_%2843043463084%29_%28cropped%29.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Michelle Rodriguez",
+            "imagen":"https://ntvb.tmsimg.com/assets/assets/219616_v9_bb.jpg?w=270&h=360"
+        },
+        "actor3": {
+            "nombre":"Regé-Jean Page",
+            "imagen":"https://people.com/thmb/IcVtVeF7ZL47IhrDQa9DAAwnTYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(665x339:667x341)/rege-jean-page-2-2000-5f86320b90bf425a84e296bbb3199f59.jpg"
+        },
+        "actor4": {
+            "nombre":"Justice Smith",
+            "imagen":"https://static01.nyt.com/images/2021/03/07/arts/07JUSTICE-SMITH-promo/07JUSTICE-SMITH-promo-superJumbo-v3.jpg"
+        },
+        "actor5": {
+            "nombre":"Sophia Lillis",
+            "imagen":"https://fwcdn.pl/ppo/59/52/2385952/451272.3.jpg"
         }
     },
     {
         "detail_id":"2",
-        "detail_titulo":"Avatar 2: El camino del agua",
+        "detail_titulo":"Avatar 2: La forma del agua",
         "categoria":"favorita",
         "detail_imagen": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61O8usiIS7L.jpg",
         "detail_background": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61O8usiIS7L.jpg",
@@ -42,16 +54,16 @@
             "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
         },
         "actor3": {
-            "nombre":"Zoe Saldaña",
-            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+            "nombre":"Stephen Lang",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMjE4NzYwNTc5Nl5BMl5BanBnXkFtZTcwMzQzOTUyNw@@._V1_.jpg"
         },
         "actor4": {
-            "nombre":"Zoe Saldaña",
-            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+            "nombre":"Sigourney Weaver",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_.jpg"
         },
         "actor5": {
-            "nombre":"Zoe Saldaña",
-            "imagen":"https://flxt.tmsimg.com/assets/194024_v9_bb.jpg"
+            "nombre":"Britain Dalton",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMGVmYjQyZGItMGI1MC00OWRkLThhYzUtMTcxNDg5NjFjZjhjXkEyXkFqcGdeQXVyNTU4MTY0MTk@._V1_FMjpg_UX1000_.jpg"
         }
     },
     {
@@ -59,21 +71,33 @@
         "detail_titulo":"Operacion Fortune: El gran engaño",
         "categoria":"estreno",
         "detail_imagen": "https://www.ecartelera.com/carteles/17500/17589/001_m.jpg",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://i.blogs.es/0938ae/bg/1366_2000.jpeg",
         
-        "detail_genero": "",
-        "detail_duracion":"The Whale",
-        "director":"Darren Aronofsky",
-        "fecha_estreno":"Diciembre 9, 2022",
-        "review":"Drama",
-        "resumen": "117 minutos",
+        "detail_genero": "Accion, Comedia, Suspenso",
+        "detail_duracion":"114 Minutos",
+        "director":"Guy Ritchie",
+        "fecha_estreno":"Enero 04, 2023",
+        "review":"Uno de los puntos que más sorprende de Operación Fortune: El gran engaño, de Guy Ritchie, es su sentido del humor. La película, que llega a la gran pantalla luego de varios retrasos debido a la pandemia, se burla de sí misma. De la conocida fórmula de Ritchie (acción, grandes peleas coreográficas, héroes pomposos). De hecho, la primera secuencia (que recorre el aeropuerto de Madrid en el tono de una película de espías) celebra su pulcro pulso. Pero, a la vez, algo más. ¿Las bromas y chistes son trucos para sostener la trama? ¿Elementos de atención para conducir algo más? Ritchie no lo aclara y avanza con una velocidad asombrosa para cubrir sus escenarios más conocidos.",
+        "resumen": "La historia de un agente que es reclutado por una alianza de inteligencia global para rastrear y detener la venta de nuevas tecnologías de armas mortales.",
         "actor1": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Jason Statham",
+            "imagen":"https://www.onthisday.com/images/people/jason-statham-medium.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Aubrey Plaza",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMjIyMzYyMjQ5OV5BMl5BanBnXkFtZTcwMTA0MTkxNw@@._V1_FMjpg_UX1000_.jpg"
+        },
+        "actor3": {
+            "nombre":"Josh Hartnett",
+            "imagen":"https://upload.wikimedia.org/wikipedia/commons/7/79/Josh_Hartnett_SDCC_2014.jpg"
+        },
+        "actor4": {
+            "nombre":"Hugh Grant",
+            "imagen":"https://cdn.britannica.com/23/171923-050-EFF153B8/Hugh-Grant-2007.jpg"
+        },
+        "actor5": {
+            "nombre":"Cary Elwes",
+            "imagen":"https://flxt.tmsimg.com/assets/503_v9_bc.jpg"
         }
     },
     {
@@ -81,21 +105,33 @@
         "detail_titulo":"Babylon",
         "categoria":"estreno",
         "detail_imagen": "https://i.ebayimg.com/images/g/JM8AAOSwc6ZjiOJV/s-l1600.jpg",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://cloudfront-us-east-1.images.arcpublishing.com/dmn/UW4Z5Q2UJJVOIX3WYKQOGDM3CA.jpg",
         
-        "detail_genero": "",
-        "detail_duracion":"The Whale",
-        "director":"Darren Aronofsky",
-        "fecha_estreno":"Diciembre 9, 2022",
-        "review":"Drama",
-        "resumen": "117 minutos",
+        "detail_genero": "Comedia, Drama",
+        "detail_duracion":"188 minutos",
+        "director":"Damien Chazelle",
+        "fecha_estreno":"Diciembre 22, 2022",
+        "review":"Babylon se mueve entre géneros, del noir la comedia disparatada, pero en última instancia deja un poso amargo, un viaje que nunca deja de ser descerebrado y sorprendente por parte de un director tradicionalmente más encorsetado, pero que logra contar muchas cosas sin sermonear, con una mirada ácida al descontrol que no mira para otro lado a sus consecuencias, un tratado de sueños rotos y visión de largo recorrido que se planta como la primera gran película de 2023. Philipp Engel de Cinemanía",
+        "resumen": "Ambientada en Los Angeles durante los años 20, cuenta una historia de ambición y excesos desmesurados que recorre la ascensión y caída de múltiples personajes durante una época de desenfrenada decadencia y depravación en los albores de Hollywood.",
         "actor1": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Brad Pitt",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Margot Robbie",
+            "imagen":"https://cdn.britannica.com/32/201632-050-66971649/actress-Margot-Robbie-Australian-2018.jpg"
+        },
+        "actor3": {
+            "nombre":"Diego Calva",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMmE2ODE0MGMtNWNmZi00MTIxLWIzM2UtODBjNWNjYjAzMmY5XkEyXkFqcGdeQXVyMzcwODk1NDA@._V1_.jpg"
+        },
+        "actor4": {
+            "nombre":"Jean Smart",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMjAwNjg0MjUxMF5BMl5BanBnXkFtZTcwMTcyNjY0MQ@@._V1_FMjpg_UX1000_.jpg"
+        },
+        "actor5": {
+            "nombre":"Flea",
+            "imagen":"https://www.themoviedb.org/t/p/w500/nGQE7xf4YJeqO0a4lpFebhwI7R9.jpg"
         }
     },
     {
@@ -103,21 +139,33 @@
         "detail_titulo":"Ant-Man y la Avispa: Quantumania",
         "categoria":"estreno",
         "detail_imagen": "https://www.mubis.es/media/users/7286/311364/trailer-y-poster-oficial-de-ant-man-y-la-avispa-quantumania-original.jpg",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/Ant-Man-y-la-Avispa-Quantumania-sinopsis-trailer-personajes-teorias-viajes-en-el-tiempo-universo-cinematografico-de-marvel-scaled.jpg?fit=2560%2C1938&quality=50&strip=all&ssl=1",
         
-        "detail_genero": "",
-        "detail_duracion":"The Whale",
-        "director":"Darren Aronofsky",
-        "fecha_estreno":"Diciembre 9, 2022",
-        "review":"Drama",
-        "resumen": "117 minutos",
+        "detail_genero": "Aventura, Ciencia ficcion, Comedia",
+        "detail_duracion":"125 minutos",
+        "director":"Peyton Reed",
+        "fecha_estreno":"Febrero 10, 2023",
+        "review":"Ant-Man prometió tener un efecto importante en el futuro del MCU, y después de una cantidad preocupante de entradas aburridas y decepcionantes en la franquicia, Quantumania finalmente tuvo un impacto. Es una película de superhéroes genuinamente entretenida, con nuevos elementos interesantes, una atmósfera maravillosa y grandes promesas para el futuro, que me dio la esperanza suficiente para esperar las próximas películas del género este año. Peter Schulcz de Budapest Reporter",
+        "resumen": "La pareja de superhéroes Scott Lang y Hope van Dyne regresa para continuar sus aventuras como Ant-Man y la Avispa. Los dos, junto a los padres de Hope, Hank Pym y Janet van Dyne y la hija de Scott, Cassie Lang, se dedican a explorar el Mundo Cuántico, interactuando con nuevas y extrañas criaturas y embarcándose en una aventura que les llevará más allá de los límites de lo que creían posible.",
         "actor1": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Paul Rudd",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Evangeline Lilly",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_FMjpg_UX1000_.jpg"
+        },
+        "actor3": {
+            "nombre":"Jonathan Majors",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BYTQ0ZDkzZmYtYzAzZC00YTUwLWJhZmEtZGRjZTQyYWUwYWI0XkEyXkFqcGdeQXVyMjU2Nzg3NzM@._V1_.jpg"
+        },
+        "actor4": {
+            "nombre":"Kathryn Newton",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMDM5YjI2NDItYWY1My00ZmUyLTgyZjMtOGQzMmEyNjk0ODU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+        },
+        "actor5": {
+            "nombre":"Michelle Pfeiffer",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_FMjpg_UX1000_.jpg"
         }
     },
     {
@@ -125,21 +173,33 @@
         "detail_titulo":"Volver al futuro: Parte III",
         "categoria":"favorita",
         "detail_imagen": "https://cdn.cinencuentro.com/wp-content/uploads/2015/10/VOLVER3-poster-683x1024.jpg",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://i.blogs.es/9d138a/regreso-al-futuro-ii-cartel/1366_2000.jpg",
         
-        "detail_genero": "",
-        "detail_duracion":"The Whale",
-        "director":"Darren Aronofsky",
-        "fecha_estreno":"Diciembre 9, 2022",
-        "review":"Drama",
-        "resumen": "117 minutos",
+        "detail_genero": "Aventura, Ciencia ficcion, Comedia, Clasica",
+        "detail_duracion":"118 minutos",
+        "director":"Robert Zemeckis",
+        "fecha_estreno":"Mayo 25, 1990",
+        "review":"Desde sus primeras tomas, la película es como un elixir estimulante, una película que ofrece emociones y acelera el pulso, pero también mantiene la cabeza trabajando. Es divinamente frívola, un divertimento casi perfecto. Hal Hinson de The Washington Post",
+        "resumen": "Doc tiene el coche-máquina del tiempo averiado, y está prisionero en la época del salvaje oeste. Por su parte, Marty McFly está en 1955 y acaba de encontrar una carta escrita por Doc en 1885. En ella, Doc le pide que arregle el coche, pero que no vaya a rescatarlo pues se encuentra muy bien en el pasado. Sin embargo el muchacho irá en su búsqueda cuando descubre una vieja tumba en la que lee que su amigo murió en 1885.",
         "actor1": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Michael J. Fox",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTcwNzM0MjE4NF5BMl5BanBnXkFtZTcwMDkxMzEwMw@@._V1_FMjpg_UX1000_.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Christopher Lloyd",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTkxNzQ0ODgxOV5BMl5BanBnXkFtZTcwMTAxMDY0Mg@@._V1_FMjpg_UX1000_.jpg"
+        },
+        "actor3": {
+            "nombre":"Mary Steenburgen",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMTk1OTI5OTc0Nl5BMl5BanBnXkFtZTcwNjc5NDMwNA@@._V1_.jpg"
+        },
+        "actor4": {
+            "nombre":"Thomas F. Wilson",
+            "imagen":"https://images.squarespace-cdn.com/content/v1/57b25515e4fcb5df8e4e488e/1471412151136-TG03I57C2T93NEX4A3GJ/image-asset.jpeg?format=1000w"
+        },
+        "actor5": {
+            "nombre":"Lea Thompson",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BZjgzNmViYTktMjhjNy00NDc1LWI2MjMtNGUxYmFlZTNhODViXkEyXkFqcGdeQXVyMjA3MjIzMDA@._V1_.jpg"
         }
     },
     {
@@ -147,21 +207,33 @@
         "detail_titulo":"The Creed III",
         "categoria":"estreno",
         "detail_imagen": "https://upload.wikimedia.org/wikipedia/en/c/c2/Creed_III_poster.png",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://www.gannett-cdn.com/presto/2023/02/24/NABJ/a71a4e03-510c-4fd4-8866-860a4822fc59-Creed_III.jpg",
         
-        "detail_genero": "",
-        "detail_duracion":"The Whale",
-        "director":"Darren Aronofsky",
-        "fecha_estreno":"Diciembre 9, 2022",
-        "review":"Drama",
-        "resumen": "117 minutos",
+        "detail_genero": "Accion, Drama",
+        "detail_duracion":"116 minutos",
+        "director":"Michael B. Jordan",
+        "fecha_estreno":"Marzo 01, 2023",
+        "review":"Creed III continúa la racha de la saga Rocky, ahora sin Rocky, con una entrega superior a su predecesora por un guion más maduro en el que destaca el antagonista interpretado de forma brillante por Jonathan Majors, sin desmerecer la dirección de Michael B. Jordan. Un debut muy potente que impulsa una saga que todavía no ha lanzado el último golpe. Javier Escribano de Hobby Consolas",
+        "resumen": "Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.",
         "actor1": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Michael B. Jordan",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Tessa Thompson",
+            "imagen":"https://www.themoviedb.org/t/p/w500/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg"
+        },
+        "actor3": {
+            "nombre":"Jonathan Majors",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BYTQ0ZDkzZmYtYzAzZC00YTUwLWJhZmEtZGRjZTQyYWUwYWI0XkEyXkFqcGdeQXVyMjU2Nzg3NzM@._V1_.jpg"
+        },
+        "actor4": {
+            "nombre":"Phylicia Rashād",
+            "imagen":"https://www.tvguide.com/a/img/resize/440fb012d9f85507c86831c57bb749198aa252de/catalog/provider/10/9/10-86E19C11-8926-44AC-89EA-07E40DC5873F.png?auto=webp&fit=crop&height=300&width=200"
+        },
+        "actor5": {
+            "nombre":"Wood Harris",
+            "imagen":"https://www.themoviedb.org/t/p/w500/9gvwUEu1fZTSTkykaCx2fSdSDWK.jpg"
         }
     },
     {
@@ -169,21 +241,33 @@
         "detail_titulo":"John Wick 4",
         "categoria":"estreno",
         "detail_imagen": "https://image.tmdb.org/t/p/original//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
-        "detail_background": "https://www.themoviedb.org/t/p/original/7bq9uQXqDwO4Z1RPd4D3bbAk9Pl.jpg",
+        "detail_background": "https://static01.nyt.com/images/2023/03/24/multimedia/23john-wick-review-jgfp/23john-wick-review-jgfp-videoSixteenByNine3000.jpg",
         
-        "detail_genero": "",
-        "detail_duracion":"The Whale",
-        "director":"Darren Aronofsky",
-        "fecha_estreno":"Diciembre 9, 2022",
-        "review":"Drama",
-        "resumen": "117 minutos",
+        "detail_genero": "Accion, Crimen, Suspenso",
+        "detail_duracion":"169 minutos",
+        "director":"Chad Stahelski",
+        "fecha_estreno":"Marzo 22, 2023",
+        "review":"'John Wick 4' es una película obligatoria para cualquier fan de la saga. Stahelski se ha sacado de la manga una obra cumbre del cine de acción más excesivo, sin por ello descuidar para nada la rica mitología de este universo, llevando además al límite al mítico personaje interpretado por Reeves. Por mi parte, quizá me siga quedando con el enfoque más reducido y centrado de la primera parte -aún no lo tengo claro-, pero eso no quita para que haya quedado encantado con lo que me han ofrecido aquí. Si acaso, quizá he echado en falta algo más de sangre teniendo en cuenta las masacres que llegamos a ver en pantalla, pero bueno, tampoco es grave. ESPINOF",
+        "resumen": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
         "actor1": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Keanu Reeves",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BNGJmMWEzOGQtMWZkNS00MGNiLTk5NGEtYzg1YzAyZTgzZTZmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg"
         },
         "actor2": {
-            "nombre":"",
-            "imagen":""
+            "nombre":"Donnie Yen",
+            "imagen":"https://m.media-amazon.com/images/M/MV5BZGU0ZjFjZGMtZGU4My00ZmRmLTk2Y2EtOWNlZjhhZmE2MjIwXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg"
+        },
+        "actor3": {
+            "nombre":"Ian McShane",
+            "imagen":"https://www.emmys.com/sites/default/files/bios/ian-mcshane-ap-450x600.jpg"
+        },
+        "actor4": {
+            "nombre":"Bill Skarsgård",
+            "imagen":"https://media0018.elcinema.com/uploads/_315x420_4c29d1189835a0f3fcb72980039a4e4138c44eab93fc9b7abb5119f24b419ef8.jpg"
+        },
+        "actor5": {
+            "nombre":"Laurence Fishburne",
+            "imagen":"https://www.emmys.com/sites/default/files/Laurence-Fishburne-for-bio_0.jpg"
         }
     }
 ]

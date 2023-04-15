@@ -11,8 +11,9 @@ fetch("jsons/detailMovies.json").then(
     for(let movie of movies){
         //console.log("Movie detail->",movie.detail_id);
         //console.log("id->",id);
-        urlBG=movie.detail_background;
+        
         if(movie.detail_id==id.toString()){
+            urlBG=movie.detail_background;
             console.log("iguales");
             out+=`
             <div class="card text-bg-dark mb-3 bg-opacity-50"  id="card_detalle">
@@ -40,9 +41,8 @@ fetch("jsons/detailMovies.json").then(
                         </div>
                         
                     </div>
-                    <div class="card-footer bg-transparent border-dark">
-                        <div class="card-title-detail text-center text-info">Actores</div>
-                        <br>
+                    <div class="card-footer bg-transparent border-light">
+                        <h3 class="card-title text-info text-center">Actores</h3>
                             <div class="row row-cols-1 row-cols-md-5 g-4">
                                 <div class="col">
                                     <div class="card-detail-actor">

@@ -42,9 +42,9 @@
                             <a class="nav-link" aria-current="page" href="upcoming.html">Estrenos</a>                    
                         </li>     
                         </ul>
-                        <form class="d-flex" role="search">
-                            <input class="form-control me-2" type="search" placeholder="Nombre de la pelicula" aria-label="Search">
-                            <button class="btn btn-info" type="submit">Buscar</button>
+                        <form class="d-flex" role="search" id="search-form1" novalidate>
+                          <input class="form-control me-2" type="search" placeholder="Nombre de película" aria-label="Search" id="search-input">
+                          <button class="btn btn-info" type="submit">Buscar</button>
                         </form>
                     </div>
                     </div>
@@ -53,6 +53,26 @@
                 </header>
                 
             </div>
+            <script>
+              var form = document.getElementById('search-form1');
+              var input = document.getElementById('search-input');
+              var searchValue="";
+              // Capturar el evento submit del formulario
+              form.addEventListener('submit', function(event) {
+                // Prevenir que se envíe el formulario
+                event.preventDefault();
+  
+                // Obtener el valor del campo de entrada
+                searchValue = input.value;
+  
+                // Hacer algo con el valor (por ejemplo, buscar películas)
+                console.log('Buscar películas con el término:', searchValue);
+                const url=`search.html?q=${searchValue}`;
+                console.log("url->",url);
+                window.location.href = `search.html?q=${searchValue}`;
+              });
+  
+            </script>
 
             <!-- Contenido background, e info de cada peli-->
             <div class="containerCard justify-content-center align-items-center">
@@ -78,7 +98,7 @@
 
     
     <script src="bootstrap-5.2.3-dist/js/bootstrap.bundle.min.js"></script>
-    <script src="javascript/search.js"></script>
+    <script src="javascript/search2.js"></script>
     
 </body>
 </html>
